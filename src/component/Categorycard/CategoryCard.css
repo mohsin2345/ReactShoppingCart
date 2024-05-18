@@ -1,0 +1,13 @@
+.category-cart{
+
+    border: 1px solid #b5c0d0;
+    border-radius: 30px;
+    padding: 1.6rem;
+    width: 200px;
+    cursor: pointer;
+
+}
+.category-name{
+    color: #b5c0d0;
+    text-transform: uppercase;
+}
